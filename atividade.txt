@@ -1,3 +1,13 @@
 Projeto: Sistema de Controle de Biblioteca
 Versão: 1.0
 Data: 23/02/2026
+
+
+
+
+
+
+
+
+
+Alteração realizada na branch develop para prática de commit.
