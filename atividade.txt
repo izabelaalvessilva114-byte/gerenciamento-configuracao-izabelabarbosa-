@@ -3,7 +3,9 @@ Versão: 1.0
 Data: 23/02/2026
 
 
-
+Projeto: Sistema de Controle de Biblioteca
+Versão: 1.1
+Data: 25/02/2026
 
 
 
